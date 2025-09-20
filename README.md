@@ -4,4 +4,3 @@
 
 - 開発計画: [development_plan.md](development_plan.md)
 - 進捗更新は `development_plan.md` セクション8のログに記録してください。
-- 日本語で記録してください。
